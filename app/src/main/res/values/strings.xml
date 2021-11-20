@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="shloka">Sections</string>
+    <string name="ojas">Ojas</string>
+    <string name="rearrange_by_listening_to_the_audio">Drag and drop to rearrange by listening to the audio</string>
+    <string name="meaning_question">Listen to the shloka and know its meaning</string>
+    <string name="guessing_shloka">Choose the related option by combining the pictures</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="hurray">Hurray !!!</string>
+    <string name="score">Score</string>
+    <string name="prizes">Click me to unlock prizes</string>
+</resources>
